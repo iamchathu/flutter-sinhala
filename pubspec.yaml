@@ -1,9 +1,8 @@
 name: flutter_sinhala
 description: Sinhala Fonts for Flutter
-
 repository: https://github.com/iamchathu/flutter-sinhala
 
-version: 1.0.0+1
+version: 1.0.0+2
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -12,12 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^1.0.2
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-flutter:
-  uses-material-design: true
 

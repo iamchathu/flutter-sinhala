@@ -1,5 +1,7 @@
 # flutter_sinhala
 
+[![Pub](https://img.shields.io/pub/v/flutter_sinhala.svg)](https://pub.dev/packages/flutter_sinhala)
+
 Sinhala Fonts for Flutter
 
 ## Getting Started
