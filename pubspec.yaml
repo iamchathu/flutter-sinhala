@@ -1,8 +1,8 @@
 name: flutter_sinhala
 description: Collection of Sinhala Fonts to be used with Flutter development.
-repository: https://github.com/iamchathu/flutter-sinhala.git
+repository: https://github.com/iamchathu/flutter-sinhala
 
-version: 1.0.0+3
+version: 1.0.0+4
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
